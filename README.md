@@ -224,6 +224,17 @@ Secondary School
 
 </td> <td width="50%" align="center">
 
+💻 Top Languages by Com📈 Statistics
+<div align="center">
+
+⭐ Stats  •  💻 Top Languages  •  📦 Repos by Language  •  ⏱️ Productive Time  •  👤 Profile
+
+</div> <br> <div align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarangenikhilkumar" /> </div> <br> <table width="100%"> <tr> <td width="50%" align="center">
+
+⭐ Stats <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarangenikhilkumar" />
+
+</td> <td width="50%" align="center">
+
 💻 Top Languages by Commit <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarangenikhilkumar" />
 
 </td> </tr> <tr> <td width="50%" align="center">
@@ -234,7 +245,11 @@ Secondary School
 
 ⏱️ Productive Time (IST) <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarangenikhilkumar&utcOffset=5.5" />
 
-</td> </tr> </table>
+</td> </tr> </table> <br> <div align="center">
+
+⭐ Stats  •  💻 Top Languages  •  📦 Repos by Language  •  ⏱️ Productive Time  •  👤 Profile
+
+</div>
 
 ## 📊 GitHub Activity
 
