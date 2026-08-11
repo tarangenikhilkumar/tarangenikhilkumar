@@ -181,11 +181,12 @@ Secondary School
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg"> </picture> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:3B6EA5&height=140&section=footer" />
 
 
+
 ## 📄 Resume
 
 <div align="center">
 
-[![Resume](NikhilKumar_Tarange_7666800427.pdf)
+![Resume](NikhilKumar_Tarange_7666800427.pdf)
 
 </div>
 
@@ -197,7 +198,7 @@ Secondary School
 <div align="center">
 > connect --with nikhilkumar
 [SYSTEM] Ready to receive transmissions...
-<br> <table width="100%"> <tr> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36"/> <br> Email <br> <sub><a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36"/> <br> LinkedIn <br> <sub><a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">nikhilkumar-tarange</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/phone.png" width="36"/> <br> Phone <br> <sub><a href="tel:+917666800427">+91 76668 00427</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/github.png" width="36"/> <br> **GitHub** <br> <sub><a href="https://github.com/tarangenikhilkumar">tarangenikhilkumar</a></sub> </td> </tr> </table> <br>
+<br> <table width="100%"> <tr> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36"/> <br> Email <br> <sub><a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36"/> <br> LinkedIn <br> <sub><a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">nikhilkumar-tarange</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/phone.png" width="36"/> <br> Phone <br> <sub><a href="tel:+917666800427">+91 76668 00427</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/github.png" width="36"/> <br> GitHub <br> <sub><a href="https://github.com/tarangenikhilkumar">tarangenikhilkumar</a></sub> </td> </tr> </table> <br>
 
 > connection established  •  Thanks for stopping by! 🚀
 
