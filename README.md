@@ -185,11 +185,11 @@ Secondary School
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/OPEN_RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/raw/main/resume.pdf)
+[![Resume](NikhilKumar_Tarange_7666800427.pdf)
 
 </div>
 
-> 💡 This link works **only after** you upload `resume.pdf` (attached below) into your profile repo — the one named exactly `tarangenikhilkumar` — as a file called `resume.pdf` in the root, then commit to the `main` branch.
+
 
 ---
 
@@ -197,7 +197,7 @@ Secondary School
 <div align="center">
 > connect --with nikhilkumar
 [SYSTEM] Ready to receive transmissions...
-<br> <table width="100%"> <tr> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36"/> <br> **Email** <br> <sub><a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36"/> <br> **LinkedIn** <br> <sub><a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">nikhilkumar-tarange</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/phone.png" width="36"/> <br> **Phone** <br> <sub><a href="tel:+917666800427">+91 76668 00427</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/github.png" width="36"/> <br> **GitHub** <br> <sub><a href="https://github.com/tarangenikhilkumar">tarangenikhilkumar</a></sub> </td> </tr> </table> <br>
+<br> <table width="100%"> <tr> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36"/> <br> Email <br> <sub><a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36"/> <br> LinkedIn <br> <sub><a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">nikhilkumar-tarange</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/phone.png" width="36"/> <br> Phone <br> <sub><a href="tel:+917666800427">+91 76668 00427</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/github.png" width="36"/> <br> **GitHub** <br> <sub><a href="https://github.com/tarangenikhilkumar">tarangenikhilkumar</a></sub> </td> </tr> </table> <br>
 
 > connection established  •  Thanks for stopping by! 🚀
 
