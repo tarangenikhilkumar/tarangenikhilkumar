@@ -67,6 +67,7 @@ expertise.
 
 ---
 <Br>
+---
 ## 📄 Resume
 
 <div align="center">
