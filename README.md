@@ -59,13 +59,24 @@ expertise.
 | 💼 **Focus** | Full Stack Development |
 | 🧩 **Core Stack** | Java · Spring Boot · React |
 | 🗄️ **Database** | MySQL |
-| 🎓 **Currently** | PG-DAC @ CDAC Sunbeam |
+| 🎓 **Recently Complete** | PG-DAC @ CDAC Sunbeam |
 
 </td>
 </tr>
 </table>
 
 ---
+
+## 📄 Resume
+
+<div align="center">
+
+[![View Resume](https://img.shields.io/badge/👁️%20View%20Resume-4285F4?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/blob/main/NikhilKumar_Tarange_7666800427.pdf)
+&nbsp;
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-2EA44F?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/raw/main/NikhilKumar_Tarange_7666800427.pdf)
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
@@ -181,16 +192,6 @@ Secondary School
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg"> </picture> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:3B6EA5&height=140&section=footer" />
 
 
-
-## 📄 Resume
-
-<div align="center">
-
-[![View Resume](https://img.shields.io/badge/👁️%20View%20Resume-4285F4?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/blob/main/NikhilKumar_Tarange_7666800427.pdf)
-&nbsp;
-[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-2EA44F?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/raw/main/NikhilKumar_Tarange_7666800427.pdf)
-
-</div>
 
 
 ---
