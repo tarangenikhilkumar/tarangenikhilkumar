@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ACCESS%3A+NIKHILKUMAR+TARANGE;Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+React;PG-DAC+%40+CDAC+Sunbeam+Hinjewadi" alt="Typing SVG" />
 
-`entry points • projects • labs • resume • contact`
+`• projects • labs • resume • contact`
 
 </div>
 
@@ -94,45 +94,61 @@ expertise.
 ## 🎓 Education
 
 <table width="100%">
-
 <tr>
-<td width="8%" align="center">🔵</td>
-<td width="30%"><b>Post Graduate Diploma in Advanced Computing (PG-DAC)</b></td>
-<td width="35%">Sunbeam Infotech Pvt. Ltd. (CDAC, Hinjewadi), Pune</td>
-<td width="12%" align="center"><b>2026</b></td>
-<td width="15%" align="center">—</td>
+
+<td width="25%" valign="top" align="center">
+
+🔵<br>
+**PG-DAC**
+<br><br>
+Post Graduate Diploma in Advanced Computing
+<br><br>
+*Sunbeam Infotech (CDAC, Hinjewadi), Pune*
+<br><br>
+**2025 – 2026**
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+🟣<br>
+**B.E. — Information Technology**
+<br><br>
+Anantrao Pawar College of Engineering
+<br><br>
+*Pune, Maharashtra*
+<br><br>
+**2024** &nbsp;|&nbsp; CGPA **8.16**
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+🟢<br>
+**HSC**
+<br><br>
+Higher Secondary School
+<br><br>
+*Shri Ravishankar Vidyamandir, Karjat*
+<br><br>
+**2020** &nbsp;|&nbsp; **74.31%**
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+🟡<br>
+**SSC**
+<br><br>
+Secondary School
+<br><br>
+*Shri Ravishankar Vidyamandir, Karjat*
+<br><br>
+**2018** &nbsp;|&nbsp; **83.80%**
+
+</td>
+
 </tr>
-
-<tr><td colspan="5"><hr></td></tr>
-
-<tr>
-<td align="center">🟣</td>
-<td><b>B.E. — Information Technology</b></td>
-<td>Anantrao Pawar College of Engineering, Pune</td>
-<td align="center"><b>2024</b></td>
-<td align="center">CGPA <b>8.16</b></td>
-</tr>
-
-<tr><td colspan="5"><hr></td></tr>
-
-<tr>
-<td align="center">🟢</td>
-<td><b>Higher Secondary School (HSC)</b></td>
-<td>Shri Ravishankar Vidyamandir, Karjat, A.nagar</td>
-<td align="center"><b>2020</b></td>
-<td align="center"><b>74.31%</b></td>
-</tr>
-
-<tr><td colspan="5"><hr></td></tr>
-
-<tr>
-<td align="center">🟡</td>
-<td><b>Secondary School (SSC)</b></td>
-<td>Shri Ravishankar Vidyamandir, Karjat, A.nagar</td>
-<td align="center"><b>2018</b></td>
-<td align="center"><b>83.80%</b></td>
-</tr>
-
 </table>
 
 <br>
