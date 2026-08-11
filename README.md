@@ -213,8 +213,28 @@ Secondary School
 - 🏅 **Post Graduate Diploma in Advanced Computing (PG-DAC)** — Sunbeam (CDAC), Hinjewadi · *Aug 2025 – Feb 2026*
 
 ---
-## 📈 Statistics
-<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarangenikhilkumar" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarangenikhilkumar" /> </div> <div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarangenikhilkumar" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarangenikhilkumar&utcOffset=5.5" /> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarangenikhilkumar" /> </div>
+📈 Statistics
+<div align="center">
+
+⭐ Stats  •  💻 Top Languages  •  📦 Repos by Language  •  ⏱️ Productive Time  •  👤 Profile
+
+</div> <br> <div align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarangenikhilkumar" /> </div> <br> <table width="100%"> <tr> <td width="50%" align="center">
+
+⭐ Stats <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarangenikhilkumar" />
+
+</td> <td width="50%" align="center">
+
+💻 Top Languages by Commit <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarangenikhilkumar" />
+
+</td> </tr> <tr> <td width="50%" align="center">
+
+📦 Top Languages by Repo <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarangenikhilkumar" />
+
+</td> <td width="50%" align="center">
+
+⏱️ Productive Time (IST) <br> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarangenikhilkumar&utcOffset=5.5" />
+
+</td> </tr> </table>
 
 ## 📊 GitHub Activity
 
