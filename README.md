@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ACCESS%3A+NIKHILKUMAR+TARANGE;Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+React;PG-DAC+%40+CDAC+Sunbeam+Hinjewadi" alt="Typing SVG" />
 
-`entry points • projects • labs • resume • contact`
+`• projects • labs • resume • contact`
 
 </div>
 
@@ -155,48 +155,6 @@ Secondary School
 
 **📚 Relevant Coursework:**
 `Data Structures & Algorithms` `Database Management Systems` `Spring Boot` `Object-Oriented Programming` `Operating Systems` `REST API Development`
-
----
-
-## 🚀 Projects
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🚕 Cab Buddy
-**A Sharing Cab Booking Platform — Full Stack**
-
-- Built a full-stack cab sharing platform for ride booking & ride sharing
-- Implemented REST APIs for users, bookings, rides & authentication
-- Integrated MySQL via Hibernate/JPA, optimized with Redis caching
-- Secured with Spring Security (authentication & authorization)
-
-`React` `Spring Boot` `MySQL` `Hibernate` `Redis` `Spring Security`
-
-[![View Project](https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ CI/CD Pipeline for a Web App
-**DevOps — Automated Build, Test & Deploy**
-
-- Implemented a CI/CD pipeline to automate build, test & deployment
-- Integrated GitHub, Jenkins & Docker to build and containerize the app
-- Deployed & managed on Kubernetes, provisioned via Terraform
-
-`GitHub` `Jenkins` `Docker` `Kubernetes` `Terraform`
-
-[![View Project](https://img.shields.io/badge/View_Project-B084FF?style=for-the-badge&logo=github&logoColor=black)](#)
-
-</td>
-</tr>
-</table>
-
-> 💡 Replace the `#` links above with your actual repo URLs for Cab Buddy and the CI/CD project.
-
----
 
 ## 💼 Experience
 
