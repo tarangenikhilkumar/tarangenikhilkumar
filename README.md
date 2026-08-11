@@ -193,63 +193,12 @@ Secondary School
 
 ---
 
-## 📬 Contact
-
+📬 Contact
 <div align="center">
-
-```
 > connect --with nikhilkumar
-
 [SYSTEM] Ready to receive transmissions...
-```
+<br> <table width="100%"> <tr> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36"/> <br> **Email** <br> <sub><a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36"/> <br> **LinkedIn** <br> <sub><a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">nikhilkumar-tarange</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/phone.png" width="36"/> <br> **Phone** <br> <sub><a href="tel:+917666800427">+91 76668 00427</a></sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/48/github.png" width="36"/> <br> **GitHub** <br> <sub><a href="https://github.com/tarangenikhilkumar">tarangenikhilkumar</a></sub> </td> </tr> </table> <br>
 
-<table width="100%" cellpadding="15">
-<tr>
-<td align="center" width="50%">
+> connection established  •  Thanks for stopping by! 🚀
 
-📧
-<br>
-**Email**
-<br>
-<a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a>
-
-</td>
-<td align="center" width="50%">
-
-💼
-<br>
-**LinkedIn**
-<br>
-<a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">in/nikhilkumar-tarange</a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-📱
-<br>
-**Phone**
-<br>
-<a href="tel:+917666800427">+91 76668 00427</a>
-
-</td>
-<td align="center" width="50%">
-
-🖥️
-<br>
-**GitHub**
-<br>
-<a href="https://github.com/tarangenikhilkumar">tarangenikhilkumar</a>
-
-</td>
-</tr>
-</table>
-
-`> connection established • thank you for visiting`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=tarangenikhilkumar&label=Profile%20Views&color=00E5FF&style=flat" />
-
-</div>
+<br> <img src="https://komarev.com/ghpvc/?username=tarangenikhilkumar&label=Profile%20Views&color=00E5FF&style=for-the-badge" /> </div>
