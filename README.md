@@ -213,6 +213,8 @@ Secondary School
 - 🏅 **Post Graduate Diploma in Advanced Computing (PG-DAC)** — Sunbeam (CDAC), Hinjewadi · *Aug 2025 – Feb 2026*
 
 ---
+## 📈 Statistics
+<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarangenikhilkumar" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarangenikhilkumar" /> </div> <div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarangenikhilkumar" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarangenikhilkumar&utcOffset=5.5" /> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarangenikhilkumar" /> </div>
 
 ## 📊 GitHub Activity
 
