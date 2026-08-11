@@ -65,9 +65,8 @@ expertise.
 </tr>
 </table>
 
----
-<Br>
----
+<div>
+
 ## 📄 Resume
 
 <div align="center">
