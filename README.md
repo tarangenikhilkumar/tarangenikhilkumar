@@ -10,12 +10,47 @@
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilkumar-tarange-1560b9215)
+[![Gmail](https://img.shields.io/badge/tarangenikhil0427@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarangenikhil0427@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_7666800427-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917666800427)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarangenikhilkumar)
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![About](https://img.shields.io/badge/ABOUT_ME-0D1117?style=for-the-badge&logo=readme&logoColor=00E5FF&labelColor=0D1117)](#-about-me)
 [![Skills](https://img.shields.io/badge/SKILLS-0D1117?style=for-the-badge&logo=codeforces&logoColor=B084FF&labelColor=0D1117)](#%EF%B8%8F-tech-stack)
 [![Education](https://img.shields.io/badge/EDUCATION-0D1117?style=for-the-badge&logo=googlescholar&logoColor=FF4DA6&labelColor=0D1117)](#-education)
 [![Projects](https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=rocket&logoColor=00E5FF&labelColor=0D1117)](#-projects)
 [![Resume](https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledrive&logoColor=B084FF&labelColor=0D1117)](#-resume)
 [![Contact](https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=maildotru&logoColor=FF4DA6&labelColor=0D1117)](#-contact)
+
+</div>
+
+---
+
+## ⭐ Popular Repositories
+
+<div align="center">
+
+<a href="https://github.com/tarangenikhilkumar/BE-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=BE-Project&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tarangenikhilkumar/SpringBoot-Basic-CRUD">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=SpringBoot-Basic-CRUD&theme=tokyonight&hide_border=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/tarangenikhilkumar/LGMVIP-Web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=LGMVIP-Web&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tarangenikhilkumar/cpp-solve-question-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=cpp-solve-question-&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -191,16 +226,9 @@ SSC: **83.80%** (2018)
 
 ---
 
-## 📬 Contact
+## 📬 Profile Views
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilkumar-tarange-1560b9215)
-[![Gmail](https://img.shields.io/badge/tarangenikhil0427@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarangenikhil0427@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_7666800427-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917666800427)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarangenikhilkumar)
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=tarangenikhilkumar&label=Profile%20Views&color=00E5FF&style=flat" />
 
