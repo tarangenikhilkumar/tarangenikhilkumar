@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ACCESS%3A+NIKHILKUMAR+TARANGE;Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+React;PG-DAC+%40+CDAC+Sunbeam+Hinjewadi" alt="Typing SVG" />
 
-`• projects • labs • resume • contact`
+`entry points • projects • labs • resume • contact`
 
 </div>
 
@@ -240,11 +240,11 @@ Secondary School
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/OPEN_RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](REPLACE_WITH_YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/OPEN_RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/raw/main/resume.pdf)
 
 </div>
 
-> 💡 Upload your resume PDF into this same GitHub repo (e.g. `resume.pdf`) and replace the link above with the file's GitHub raw/blob URL — or use a Google Drive share link.
+> 💡 This link works **only after** you upload `resume.pdf` (attached below) into your profile repo — the one named exactly `tarangenikhilkumar` — as a file called `resume.pdf` in the root, then commit to the `main` branch.
 
 ---
 
@@ -258,9 +258,9 @@ Secondary School
 [SYSTEM] Ready to receive transmissions...
 ```
 
-<table>
+<table width="100%" cellpadding="15">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 📧
 <br>
@@ -269,16 +269,18 @@ Secondary School
 <a href="mailto:tarangenikhil0427@gmail.com">tarangenikhil0427@gmail.com</a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 💼
 <br>
 **LinkedIn**
 <br>
-<a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">nikhilkumar-tarange</a>
+<a href="https://linkedin.com/in/nikhilkumar-tarange-1560b9215">in/nikhilkumar-tarange</a>
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="50%">
 
 📱
 <br>
@@ -287,7 +289,7 @@ Secondary School
 <a href="tel:+917666800427">+91 76668 00427</a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 🖥️
 <br>
