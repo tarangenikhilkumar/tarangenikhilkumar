@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ACCESS%3A+NIKHILKUMAR+TARANGE;Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+React;PG-DAC+%40+CDAC+Sunbeam+Hinjewadi" alt="Typing SVG" />
 
-
+`entry points • projects • labs • resume • contact`
 
 </div>
 
@@ -32,42 +32,38 @@
 
 ---
 
-## ⭐ Popular Repositories
-
-<div align="center">
-
-<a href="https://github.com/tarangenikhilkumar/BE-Project">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=BE-Project&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-</a>
-<a href="https://github.com/tarangenikhilkumar/SpringBoot-Basic-CRUD">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=SpringBoot-Basic-CRUD&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-</a>
-
-<br>
-
-<a href="https://github.com/tarangenikhilkumar/LGMVIP-Web">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=LGMVIP-Web&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-</a>
-<a href="https://github.com/tarangenikhilkumar/cpp-solve-question-">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tarangenikhilkumar&repo=cpp-solve-question-&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-</a>
-
-</div>
-
----
-
 ## 🧬 About Me
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 ```
 > whoami
-Motivated PG-DAC student with a solid foundation in Java and Full Stack
-Development. Experienced in building web applications using React,
-Spring Boot, and MySQL. Seeking an entry-level software development
-role to apply technical skills and contribute to organizational growth.
 
-> location   : Pune, Maharashtra, India
-> status     : Open to Entry-Level SDE Roles
+Motivated PG-DAC student with a solid foundation in Java and
+Full Stack Development. Experienced in building web applications
+using React, Spring Boot, and MySQL. Seeking an entry-level
+software development role to apply technical skills, contribute
+to organizational growth, and further enhance professional
+expertise.
 ```
+
+</td>
+<td width="40%" valign="top">
+
+|  |  |
+|---|---|
+| 📍 **Location** | Pune, Maharashtra, India |
+| 🎯 **Status** | Open to Entry-Level SDE Roles |
+| 💼 **Focus** | Full Stack Development |
+| 🧩 **Core Stack** | Java · Spring Boot · React |
+| 🗄️ **Database** | MySQL |
+| 🎓 **Currently** | PG-DAC @ CDAC Sunbeam |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -97,47 +93,52 @@ role to apply technical skills and contribute to organizational growth.
 
 ## 🎓 Education
 
-<table align="center" width="100%">
+<table width="100%">
+
 <tr>
-<td width="34%" valign="top">
-
-**🔵 PG-DAC**
-<br>
-Post Graduate Diploma in Advanced Computing
-<br>
-Sunbeam Infotech Pvt. Ltd. (CDAC, Hinjewadi)
-<br>
-Pune, Maharashtra — **2026**
-
-</td>
-<td width="34%" valign="top">
-
-**🟣 B.E. — Information Technology**
-<br>
-Anantrao Pawar College of Engineering
-<br>
-Pune, Maharashtra
-<br>
-CGPA **8.16** — **2024**
-
-</td>
-<td width="32%" valign="top">
-
-**🟢 HSC / SSC**
-<br>
-Shri Ravishankar Vidyamandir
-<br>
-Karjat, A.nagar, Maharashtra
-<br>
-HSC: **74.31%** (2020)
-<br>
-SSC: **83.80%** (2018)
-
-</td>
+<td width="8%" align="center">🔵</td>
+<td width="30%"><b>Post Graduate Diploma in Advanced Computing (PG-DAC)</b></td>
+<td width="35%">Sunbeam Infotech Pvt. Ltd. (CDAC, Hinjewadi), Pune</td>
+<td width="12%" align="center"><b>2026</b></td>
+<td width="15%" align="center">—</td>
 </tr>
+
+<tr><td colspan="5"><hr></td></tr>
+
+<tr>
+<td align="center">🟣</td>
+<td><b>B.E. — Information Technology</b></td>
+<td>Anantrao Pawar College of Engineering, Pune</td>
+<td align="center"><b>2024</b></td>
+<td align="center">CGPA <b>8.16</b></td>
+</tr>
+
+<tr><td colspan="5"><hr></td></tr>
+
+<tr>
+<td align="center">🟢</td>
+<td><b>Higher Secondary School (HSC)</b></td>
+<td>Shri Ravishankar Vidyamandir, Karjat, A.nagar</td>
+<td align="center"><b>2020</b></td>
+<td align="center"><b>74.31%</b></td>
+</tr>
+
+<tr><td colspan="5"><hr></td></tr>
+
+<tr>
+<td align="center">🟡</td>
+<td><b>Secondary School (SSC)</b></td>
+<td>Shri Ravishankar Vidyamandir, Karjat, A.nagar</td>
+<td align="center"><b>2018</b></td>
+<td align="center"><b>83.80%</b></td>
+</tr>
+
 </table>
 
-**Relevant Coursework:** Data Structures & Algorithms · Database Management Systems · Spring Boot · Object-Oriented Programming · Operating Systems · REST API Development
+<br>
+
+**📚 Relevant Coursework:**
+`Data Structures & Algorithms` `Database Management Systems` `Spring Boot` `Object-Oriented Programming` `Operating Systems` `REST API Development`
 
 ---
 
