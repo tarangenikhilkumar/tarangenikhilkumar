@@ -215,39 +215,12 @@ Secondary School
 ---
 
 
-## 📈 Statistics
 
-<div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarangenikhilkumar" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarangenikhilkumar" />
-</div>
+📈 Statistics
+<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarangenikhilkumar&theme=radical" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarangenikhilkumar&theme=radical" /> </div> <div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarangenikhilkumar&theme=radical" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarangenikhilkumar&theme=radical&utcOffset=5.5" /> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarangenikhilkumar&theme=radical" /> </div>
 
-<div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarangenikhilkumar" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarangenikhilkumar&utcOffset=5.5" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarangenikhilkumar" />
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:3B6EA5&height=140&section=footer" />
-
----
+📊 GitHub Activity
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tarangenikhilkumar/tarangenikhilkumar/output/github-contribution-grid-snake.svg"> </picture> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:3B6EA5&height=140&section=footer" />
 
 
 ## 📄 Resume
