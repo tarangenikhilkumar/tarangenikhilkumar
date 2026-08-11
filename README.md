@@ -186,10 +186,11 @@ Secondary School
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄%20Open%20Resume-FF4B4B?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/raw/main/NikhilKumar_Tarange_7666800427.pdf)
+[![View Resume](https://img.shields.io/badge/👁️%20View%20Resume-4285F4?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/blob/main/NikhilKumar_Tarange_7666800427.pdf)
+&nbsp;
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-2EA44F?style=for-the-badge&logoColor=white)](https://github.com/tarangenikhilkumar/tarangenikhilkumar/raw/main/NikhilKumar_Tarange_7666800427.pdf)
 
 </div>
-
 
 
 ---
