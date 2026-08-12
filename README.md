@@ -58,8 +58,8 @@ expertise.
 | 🎯 **Status** | Open to Entry-Level SDE Roles |
 | 💼 **Focus** | Full Stack Development |
 | 🧩 **Core Stack** | Java · Spring Boot · React |
-| 🗄️ **Database** | MySQL | Mongo DB
-| 🎓 **Recently** | PG-DAC @ CDAC Sunbeam |
+| 🗄️ **Database** | MySQL | Mongo DB |
+| 🎓 **Recently** | PG-DAC @ CDAC Sunbeam [complete] |
 
 </td>
 </tr>
