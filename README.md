@@ -59,7 +59,7 @@ expertise.
 | 💼 **Focus** | Full Stack Development |
 | 🧩 **Core Stack** | Java · Spring Boot · React |
 | 🗄️ **Database** | MySQL | Mongo DB
-| 🎓 **Recently Complete** | PG-DAC @ CDAC Sunbeam |
+| 🎓 **Recently** | PG-DAC @ CDAC Sunbeam |
 
 </td>
 </tr>
